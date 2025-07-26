@@ -1,5 +1,12 @@
 # 👨‍💻 Windsor Ossian
 
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=WindsorOssian&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WindsorOssian&layout=compact&theme=radical)
+
+---
+
 Desenvolvedor Web em formação
 ---
 
@@ -33,13 +40,6 @@ Desenvolvedor Web em formação
 ![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=WindsorOssian&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WindsorOssian&layout=compact&theme=radical)
 
 ---
 
